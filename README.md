@@ -38,4 +38,4 @@ To get started, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/wallet-smart-contracts.git
+   git clone https://github.com/SidharthaNair/Sample-Wallets.git
