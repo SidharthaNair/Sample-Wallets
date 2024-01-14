@@ -33,6 +33,14 @@ Feel free to explore each smart contract directory for detailed documentation an
 
 ## Getting Started
 
+## Prerequisites
+
+Make sure you have the following installed on your system:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (Node.js package manager)
+- [Remix IDE](https://remix.ethereum.org/) (Online Solidity IDE)
+
 To get started, follow these steps:
 
 1. Clone the repository:
